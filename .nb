@@ -1,0 +1,1 @@
+mongodb+srv://ezpartsdb:<db_password>@ezpartsdb.sggjchl.mongodb.net/
